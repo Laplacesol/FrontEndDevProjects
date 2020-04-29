@@ -1,5 +1,6 @@
 # FrontEndDevProjects
 <h2> I've compiled a set of projects :</h2>
+  <img align="right" src="images/restuarant.png" width="400" height="300"/>
 <ol>
   <li><h3>Restuarant Menu Selection</h3></li>
   <p> Sample UI that allows a user to select items from a menu. <br>Key Features:</p>
@@ -11,7 +12,7 @@
       <li>submission</li>
       <li>type selection</li>
      </ul>
-  <img src="images/restuarant.png" width="400" height="300"/>
+
   <br>
   <li><h3>Typography</h3></li>
     
