@@ -13,10 +13,10 @@
       <li>type selection</li>
      </ul>
 
+  <br> 
   <br>
+  <img align="right" src="images/typography_ref.png" width="400" height="300"/>
   <li><h3>Typography</h3></li>
-    
-  
   <p>Sample reference sheet of common typescript</p>
   <p>Key features:</p>
   <ul>
