@@ -7,12 +7,11 @@
      <li>drop down selection</li>
      <li>sliding scale</li>
       <li>radio buttons</li>
+        <li>checkboxes</li>
       <li>submission</li>
       <li>type selection</li>
      </ul>
-    
 </ol>
-    
-  
-
+<br> 
+<br>
 
