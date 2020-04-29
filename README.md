@@ -11,6 +11,13 @@
       <li>submission</li>
       <li>type selection</li>
      </ul>
+  <li>Typography</li>
+  <p>Sample reference sheet of common typescript</p>
+  <p>Key features:</p>
+  <ul>
+    <li>@font-face reference</li>
+    <li>API font links</li>
+  </ul>
 </ol>
 <br> 
 <br>
