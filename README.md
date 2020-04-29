@@ -1,2 +1,2 @@
 # FrontEndDevProjects
-Samples of front end web development 
+Samples of front end web development
