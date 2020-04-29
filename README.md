@@ -11,6 +11,8 @@
       <li>submission</li>
       <li>type selection</li>
      </ul>
+  <img src="images/restuarant.png" width="400" height="300"/>
+  <br>
   <li><h3>Typography</h3></li>
     
   
@@ -23,5 +25,5 @@
 </ol>
 <br> 
 <br>
-![](images/restuarant.png)
-<img src="images/restuarant.png" width="400" height="200"/>
+
+
