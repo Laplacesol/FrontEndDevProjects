@@ -3,7 +3,7 @@
 <ol>
   <li><h3>Restuarant Menu Selection</h3></li>
   <p> Sample UI that allows a user to select items from a menu. <br>Key Features:</p>
-    <ul>
+  <ul>
      <li>drop down selection</li>
      <li>sliding scale</li>
       <li>radio buttons</li>
@@ -12,6 +12,8 @@
       <li>type selection</li>
      </ul>
   <li><h3>Typography</h3></li>
+    
+  
   <p>Sample reference sheet of common typescript</p>
   <p>Key features:</p>
   <ul>
