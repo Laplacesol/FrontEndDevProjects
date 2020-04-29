@@ -14,4 +14,4 @@
 </ol>
 <br> 
 <br>
-![](restuarant.png)
+![](images/restuarant.png)
