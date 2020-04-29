@@ -24,4 +24,4 @@
 <br> 
 <br>
 ![](images/restuarant.png)
-<img src="restuarant.png" width="800" />
+<img src="images/restuarant.png" width="400" height="200"/>
