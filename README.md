@@ -7,11 +7,11 @@
      <li>drop down selection</li>
      <li>sliding scale</li>
       <li>radio buttons</li>
-        <li>checkboxes</li>
+       <li>checkboxes</li>
       <li>submission</li>
       <li>type selection</li>
      </ul>
-  <li>Typography</li>
+  <li><h3>Typography</h3></li>
   <p>Sample reference sheet of common typescript</p>
   <p>Key features:</p>
   <ul>
