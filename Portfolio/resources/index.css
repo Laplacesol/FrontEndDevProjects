@@ -1,5 +1,5 @@
 
-/* Add a black background color to the top navigation */
+
 body {
     margin: 0 0;
     font-family: Arial;
@@ -17,12 +17,13 @@ html {
     position: fixed;
     top: 0;
     width: 100%;
-    font-family: Georgia;
+    font-family: Roboto;
+    border-bottom: 1px solid teal;
 
 }
 
-h3, h2 {
-    font-family : Georgia;
+h3, h2 ,p {
+    font-family : Roboto;
 }
 
 .topnav a {
