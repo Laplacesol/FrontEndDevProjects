@@ -7,6 +7,8 @@ body {
     font-family: Arial;
     background: white;
 
+    margin: 0 auto;
+
 }
 html {
     scroll-behavior: smooth;
@@ -137,9 +139,22 @@ footer, img {
 
 }
 .samples {
-    padding: 10px;
+    padding: 5px;
     border: 1px solid black;
+  }
+td {
+
+
+    margin: 5px;
+    border-spacing: 10px;
+}
+table {
+    width: 70%;
+
 }
 th {
-    padding: 20px;
+    background-color: slategray;
+    color:white;
+    font-size: 18px;
+
 }
