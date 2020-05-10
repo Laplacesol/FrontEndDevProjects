@@ -22,9 +22,13 @@ html {
 h3, h2 {
 
 }
-p {
+h1 {
 
     text-align: center;
+}
+.exp {
+    text-align: left;
+    font-size: 18px;
 }
 
 .topnav a {
@@ -160,3 +164,4 @@ th {
     font-size: 20px;
 
 }
+
