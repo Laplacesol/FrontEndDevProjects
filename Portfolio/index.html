@@ -8,6 +8,10 @@
     <!--Link JQUERY-->
     <script type="text/javascript" src="jquery-3.2.1.js"></script>
     <script src="./resources/scripts.js"></script>
+    <script src="./resources/datamodel.js"></script>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <!-- Load color scale -->
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
     <script crossorigin src="https://unpkg.com/wolfram-notebook-embedder/dist/wolfram-notebook-embedder.js"></script>
 </head>
 <body>
@@ -128,7 +132,24 @@
         <tr>
             <td><iframe width='545' height='545' src='Burgers.html' frameborder='0'></iframe></td>
             <td><iframe width='545' height='545' src='./Typography/index.html' frameborder='0'></iframe></td>
-            <td><iframe width='545' height='545' src='./PaintStore/index.html' frameborder='0'></iframe></td>
+           <!-- <td><iframe width='545' height='545' src='./PaintStore/index.html' frameborder='0'></iframe></td> -->
+            <td><iframe width='545' height='545' frameborder='0'>
+                <!-- Create a div where the graph will take place -->
+                <div id="my_dataviz"></div>
+
+                <!-- A bit of CSS: change stroke color of circle on hover (white -> black) -->
+                <style>
+                    .bubbles {
+                        stroke-width: 2px;
+                        stroke: white;
+                    }
+                    .bubbles:hover {
+                        stroke: black;
+                    }
+                </style>
+
+            </iframe>
+            </td>
         </tr>
         <tr>
             <th>Random Color Generator</th>

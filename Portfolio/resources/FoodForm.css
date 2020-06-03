@@ -1,6 +1,7 @@
 body {
-    background-color: rgb(57, 169, 219);
+    background-color: #A0A8A6;
     font-family: Rubik, Arial;
+    overflow: hidden;
 }
 
 form {
